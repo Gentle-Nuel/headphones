@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Regular.eot');
+    src: url('fonts/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/SourceSansPro-Regular.woff') format('woff'),
+      url('fonts/SourceSansPro-Regular.ttf') format('truetype'),
+      url('fonts/SourceSansPro-Regular.svg#SourceSansPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Open Cycle OT';
+    src: url('fonts/OpenCycleOT-Regular.eot');
+    src: url('fonts/OpenCycleOT-Regular.eot?#iefix') format('embedded-opentype'),
+      url('fonts/OpenCycleOT-Regular.woff') format('woff'),
+      url('fonts/OpenCycleOT-Regular.ttf') format('truetype'),
+      url('fonts/OpenCycleOT-Regular.svg#OpenCycleOT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
